@@ -156,7 +156,7 @@ class NewGame
 	{
 		//This method builds the game screen
 		
-		//Creat the game panel and set its layout, seperating the frame into two parts
+		//Create the game panel and set its layout, seperating the frame into two parts
 		gamePanel = new JPanel();
 		gamePanel.setLayout(new GridLayout(2,1));
 		
