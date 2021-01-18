@@ -1,5 +1,6 @@
 # CS210-Game
 Repository for the CS210 Game Project - Hangman
+
 Important Note
 
 Please ensure to update the path to the words.txt file within the java file. If this isn’t done then the game WILL NOT WORK. Additionally if possible use the words.txt provided in the assignment submission as this has more accessible words, the other one kept giving obscure and hard to guess words.
