@@ -412,7 +412,7 @@ class NewGame
 	
 	public void updateWord()
 	{
-		//This method updates the displated word
+		//This method updates the displayed word
 		
 		String tempWord = "";
 		int counter = 0;
